@@ -1,0 +1,43 @@
+player,org,agents,rounds_played,rating,average_combat_score,kill_deaths,kill_assists_survived_traded,average_damage_per_round,kills_per_round,assists_per_round,first_kills_per_round,first_deaths_per_round,headshot_percentage,clutch_success_percentage
+Kaoticcc,SaD,"jett, raze, neon",203,1.23,297.1,1.34,71%,182.6,1.03,0.18,0.28,0.19,27%,20%
+Spaz,TACO,"omen, viper, neon",252,1.22,214.3,1.19,80%,130.8,0.76,0.48,0.1,0.06,21%,26%
+melya,Elat,"omen, sova, clove",308,1.17,227.8,1.14,74%,148.2,0.79,0.44,0.06,0.04,30%,9%
+welyy,Blue,"sova, fade, skye",444,1.15,204.8,1.18,75%,136.8,0.69,0.37,0.09,0.05,29%,15%
+Pa1nt,Blue,"neon, jett, raze",265,1.14,254.2,1.18,70%,164.0,0.91,0.17,0.21,0.15,29%,13%
+Paincakes,FAIM,"sova, deadlock, skye",203,1.13,216.9,1.19,76%,144.0,0.78,0.36,0.09,0.08,30%,19%
+Shondex,Blue,"cypher, killjoy, viper",365,1.12,212.5,1.17,73%,145.3,0.78,0.19,0.09,0.08,35%,6%
+koalanoob,M80,"yoru, omen, jett",586,1.1,233.9,1.16,71%,151.5,0.82,0.26,0.2,0.15,23%,19%
+Barrett,YDZ,"breach, gekko, skye",231,1.09,212.8,1.04,73%,137.4,0.74,0.32,0.07,0.06,25%,19%
+jakee,YFP,"astra, omen, viper",411,1.09,217.2,1.09,74%,139.8,0.77,0.41,0.09,0.08,33%,15%
+gMd,TSM,"brimstone, omen, astra",422,1.09,211.2,1.04,76%,137.6,0.74,0.41,0.08,0.06,29%,13%
+zander,M80,"omen, viper, brimstone",586,1.07,209.6,1.08,75%,133.1,0.75,0.37,0.1,0.1,28%,20%
+k0rupt,NA,"fade, sova, deadlock",271,1.06,208.2,1.02,75%,143.3,0.7,0.32,0.11,0.07,28%,33%
+jowa,TM,"fade, kayo, breach",265,1.06,196.1,0.97,75%,128.4,0.68,0.4,0.06,0.07,32%,11%
+mikeE,BLIN,"chamber, cypher, brimstone",252,1.04,218.3,1.04,71%,140.4,0.78,0.24,0.12,0.09,35%,12%
+Okeanos,BLIN,"neon, yoru, raze",234,1.04,234.1,1.1,70%,152.2,0.84,0.21,0.19,0.22,29%,18%
+Teague,TACO,"breach, deadlock, sova",252,1.04,201.0,1.01,73%,129.2,0.7,0.41,0.05,0.08,26%,16%
+Cowpie867,UCI,"gekko, sova, cypher",274,1.03,216.1,1.07,69%,143.8,0.76,0.18,0.15,0.15,36%,6%
+sym,TSM,"raze, neon, jett",422,1.03,240.3,1.05,71%,158.6,0.84,0.23,0.22,0.2,30%,24%
+seven,TSM,"gekko, fade, sova",422,1.0,197.4,0.97,75%,133.0,0.69,0.31,0.07,0.12,21%,13%
+NMSRLM,TV,"astra, omen, cypher",257,1.0,196.2,0.95,71%,124.3,0.69,0.38,0.06,0.07,38%,13%
+Nora,SOL,"viper, breach, harbor",271,0.99,189.8,1.0,75%,126.0,0.66,0.38,0.11,0.07,30%,25%
+mummAy,FAIM,"astra, brimstone, omen",203,0.99,163.7,1.02,71%,109.4,0.62,0.35,0.03,0.05,31%,16%
+zeek,Blue,"breach, gekko, kayo",307,0.98,180.2,0.93,72%,115.3,0.63,0.52,0.04,0.05,28%,18%
+NiSMO,M80,"breach, kayo, deadlock",586,0.97,175.7,0.9,75%,117.7,0.6,0.52,0.06,0.05,29%,7%
+zerona,Fish,"viper, sova, fade",290,0.97,201.5,0.94,72%,139.6,0.7,0.3,0.09,0.1,27%,16%
+marceline,SOL,"raze, jett",271,0.95,211.3,1.01,66%,142.0,0.76,0.12,0.18,0.14,30%,13%
+neT,M80,"cypher, killjoy, viper",586,0.95,182.0,0.99,69%,120.6,0.65,0.16,0.09,0.09,33%,10%
+benjii,FOE,"cypher, killjoy",234,0.95,193.9,0.97,69%,127.7,0.65,0.17,0.08,0.07,23%,15%
+BcJ,M80,"gekko, sova, fade",586,0.94,187.3,0.95,76%,122.9,0.65,0.35,0.08,0.1,19%,21%
+Jonaaa6,FAIM,"killjoy, viper, cypher",203,0.94,193.7,1.04,69%,129.1,0.7,0.17,0.07,0.08,28%,22%
+Elab0rate,SOL,"killjoy, cypher",271,0.94,180.8,0.98,68%,120.9,0.66,0.15,0.11,0.1,33%,18%
+aproto,TSM,"deadlock, cypher, viper",348,0.91,160.9,0.85,70%,110.2,0.57,0.23,0.05,0.05,36%,16%
+Zoestol,Blue,"omen, viper, brimstone",307,0.9,167.9,0.84,73%,109.1,0.58,0.44,0.07,0.07,24%,2%
+monSi,BLIN,"sova, harbor, gekko",234,0.9,169.5,0.82,70%,109.2,0.55,0.36,0.05,0.08,23%,19%
+rise,FLOP,"omen, kayo, cypher",202,0.9,170.3,0.87,70%,116.4,0.61,0.36,0.05,0.06,22%,10%
+PepegaPig,DawN,"jett, killjoy, viper",216,0.88,189.8,0.94,69%,120.6,0.69,0.23,0.09,0.1,23%,18%
+taiga,SEN,"cypher, sage, reyna",216,0.88,191.8,0.91,67%,126.3,0.66,0.26,0.1,0.11,22%,
+POISED,TSM,"skye, breach, sova",348,0.86,164.5,0.83,74%,106.9,0.58,0.36,0.05,0.11,28%,9%
+canezera,TOR,"neon, jett, clove",253,0.86,228.7,0.89,68%,147.7,0.77,0.25,0.22,0.18,30%,10%
+RIZEU,YDZ,"omen, breach, brimstone",231,0.83,177.3,0.72,75%,113.9,0.56,0.51,0.06,0.12,24%,13%
+Dagr1s,GenZ,"jett, neon, raze",231,0.81,184.8,0.84,66%,121.4,0.66,0.15,0.11,0.17,25%,6%
